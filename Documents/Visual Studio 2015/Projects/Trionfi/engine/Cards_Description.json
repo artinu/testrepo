@@ -1,0 +1,31 @@
+﻿{
+  "Cards": [
+    {
+      "Id": "0",
+      "Name": "The Fool",
+      "Tree_Number": "11",
+      "Ruled_By": "Air",
+      "Hebrew_Letter": "Aleph",
+      "Numerical_Value": "3",
+      "Description": "The Fool Tarot Card is a special card within the Major Arcana Tarot Cards. Its numerical value of 0 basically puts it wherever within the deck. Traditionally the card is placed in front of the Magician Tarot Card or between the Judgment Tarot Card, card XX and the World Tarot Card, card XIX. The Fool Tarot Card depicts a young man journeying through difficult terrain. He’s distant in his eyes and seems to be unaware of the environment. A dog is at his feet and the young man is carrying a bag at the end of a stick."
+    },
+    {
+      "Id": "1",
+      "Name": "The Magician",
+      "Tree_Number": "12",
+      "Ruled_By": "Mercury",
+      "Hebrew_Letter": "Beth",
+      "Numerical_Value": "3",
+      "Description": "The Magician Tarot Card is the first card of the Major Arcana Tarot Cards. This card depicts a young man standing behind a table upon which has been placed the symbols of the four suits of the Minor Arcana Tarot Cards, the Pentacle, Cup, Sword and Wands. This young man is an apprentice starting on his journey towards knowledge and enrichment. He has in front of him all he needs to succeed and has the confidence to continue."
+    },
+    {
+      "Id": "2",
+      "Name": "The Papess",
+      "Tree_Number": "13",
+      "Ruled_By": "The Moon",
+      "Hebrew_Letter": "Gimel",
+      "Numerical_Value": "9",     
+      "Description": "This card, sometimes called The High Priestess Tarot Card, is a bit controversial card within the Major Arcana. The controversy lies in the two names, The High Priestess Tarot Card is so named in the Ryder-Wate-Smith Tarot Cards and The Golden Dawn Tarot deck. In many of the older ones, the card is named The Papess Tarot Card. This name is said to be a reference to a myth that claims that a woman became a pope in the early Middle Ages. This card shows a woman sitting between two pillars and holding a book, sometimes believed to be the Torah. She is crowned with a cross on her chest. Her dress is blue and turns into running water at the bottom, where a crescent moon in lying at her feet."
+    }
+  ]
+}
